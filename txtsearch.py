@@ -1,7 +1,7 @@
 #import txt file then search for keyword and print rest of string
 #use that search to find com port of spec file
 #print out com port and store as variable
-#take that variable and replaced com of txt file in folder (default com1)
+#take that variable and replace com of txt file in folder (default com1)
 
 import subprocess as sp
 import time
