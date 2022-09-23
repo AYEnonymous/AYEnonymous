@@ -52,7 +52,7 @@ data = file.readline()
 # Index 18 is the position of the letter we want to overwrite (c)om1
 index = 18
 
-# Issue with this new variable, keeps printing in two lines
+# Issue with this new variable, keeps printing in two lines ***Solution-implemented line 45,46***
 new = data[:index] + com + data[index+4:]
 final = (func(new))
 # print(final)
