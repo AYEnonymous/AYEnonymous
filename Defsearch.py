@@ -61,10 +61,3 @@ class KeywordApp:
 
 e = KeywordApp(root)
 root.mainloop()
-
-# def main():
-#     main = Tk()
-#     app = KeywordApp(main)
-#     main.mainloop()
-
-# if __name__ == "__main__":main()
